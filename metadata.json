@@ -1,0 +1,5 @@
+{
+  "name": "Flight Training Evaluation System",
+  "description": "A web application for aircraft instructors to plan, execute, and manage flight training evaluations. It features an AI-powered draft generation for evaluation reports.",
+  "requestFramePermissions": []
+}
